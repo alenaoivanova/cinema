@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../RCINEMA/RCnema"
+		},
+		{
+			"path": "../cinema"
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
